@@ -5,7 +5,7 @@ Fork this repository and make changes to the README
 
 ## Joseph
 
-Instituition: icipe
+Institution: icipe
 
 i am at the OpenScienceKE to learn and learn.
 
